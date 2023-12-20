@@ -10,3 +10,6 @@
 [submodule "RegressionFromScratch"]
 	path = RegressionFromScratch
 	url = https://github.com/MSSRPRAD/RegressionFromScratch
+[submodule "NeuralNetLite"]
+	path = NeuralNetLite
+	url = https://github.com/MSSRPRAD/NeuralNetLite
