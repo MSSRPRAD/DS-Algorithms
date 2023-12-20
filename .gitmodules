@@ -1,0 +1,12 @@
+[submodule "ML-models"]
+	path = ML-models
+	url = https://github.com/MSSRPRAD/ML-models
+[submodule "ml-models-2"]
+	path = ml-models-2
+	url = https://github.com/MSSRPRAD/ml-models-2
+[submodule "Numpy-PCA"]
+	path = Numpy-PCA
+	url = https://github.com/MSSRPRAD/Numpy-PCA
+[submodule "RegressionFromScratch"]
+	path = RegressionFromScratch
+	url = https://github.com/MSSRPRAD/RegressionFromScratch
